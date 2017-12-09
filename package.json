@@ -1,0 +1,27 @@
+{
+  "name": "space_bot",
+  "version": "1.0.0",
+  "description": "A Facebook messenger bot",
+  "main": "app.js",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.17.2 ",
+    "express": "^4.15.4",
+    "inshorts": "^1.0.5",
+    "one-liner-joke": "^1.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "weather-js": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "nasa",
+    "iss"
+  ],
+  "author": "Aryan Kanwar",
+  "license": "MIT"
+}
